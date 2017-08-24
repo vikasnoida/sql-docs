@@ -27,7 +27,7 @@ manager: "jhubbard"
 > [!IMPORTANT]  
 >  Many of the error messages that you may see while working with [!INCLUDE[ssISnoversion](../includes/ssisnoversion-md.md)] come from other components. In this topic, you will find all the errors raised by [!INCLUDE[ssISnoversion](../includes/ssisnoversion-md.md)] components. If you do not see your error in the list, the error was raised by a component outside [!INCLUDE[ssISnoversion](../includes/ssisnoversion-md.md)]. These may include OLE DB providers, other database components such as the [!INCLUDE[ssDE](../includes/ssde-md.md)] and [!INCLUDE[ssASnoversion](../includes/ssasnoversion-md.md)] , or other services or components such as the file system, the SMTP server, Message Queuing (also known as MSMQ), and so forth. To find information about these external error messages, see the documentation specific to the component.  
   
- This list cadontains the following groups of messages:  
+ This list contains the following groups of messages:  
   
 -   [Error Messages (DTS_E_*)](#msgError)  
   
